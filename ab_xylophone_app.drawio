@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T13:46:13.379Z" agent="5.0 (Macintosh)" version="14.6.13" etag="Eaveqk_KmtDoLKPKr_w0" type="github"><diagram id="Y49391l6pZXjfEnijOrs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-21T16:48:12.190Z" agent="5.0 (Macintosh)" etag="RHbznVfb-vx8Ujh1zY20" version="14.6.13" type="github">
+  <diagram id="Y49391l6pZXjfEnijOrs" name="Page-1">
+    <mxGraphModel dx="942" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SxMiKsup2tOHU1poNqA4-2" value="void main() =&amp;gt; runApp" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-1" value="&lt;div&gt;&lt;b&gt;XylophoneApp()&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- &lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-4" value="class &lt;b&gt;XylophoneApp&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="440" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMiKsup2tOHU1poNqA4-5" target="SxMiKsup2tOHU1poNqA4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-5" value="&lt;div&gt;&lt;b&gt;MaterialApp&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- home/&lt;b&gt;Scaffold&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMiKsup2tOHU1poNqA4-6" target="SxMiKsup2tOHU1poNqA4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-6" value="&lt;div&gt;&lt;b&gt;Scaffold&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- body/&lt;b&gt;SafeArea&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- backgroundColor&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMiKsup2tOHU1poNqA4-7" target="SxMiKsup2tOHU1poNqA4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-7" value="&lt;div&gt;&lt;b&gt;SafeArea&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- child/Column&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="477" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMiKsup2tOHU1poNqA4-8" target="SxMiKsup2tOHU1poNqA4-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="630" />
+              <mxPoint x="145" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-8" value="&lt;div&gt;&lt;b&gt;Column&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- crossAxisAlignment&lt;br&gt;&lt;/div&gt;&lt;div&gt;- children &amp;gt;&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="300" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-13" value="&lt;div&gt;buildKey&lt;/div&gt;&lt;div&gt;color = red / soundNumber = 1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="650" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-14" value="&lt;div&gt;buildKey&lt;/div&gt;&lt;div&gt;color = orange / soundNumber = 2&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="680" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-15" value="&lt;div&gt;buildKey&lt;/div&gt;&lt;div&gt;(color = yellow / soundNumber = 3&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="710" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-16" value="&lt;div&gt;buildKey&lt;/div&gt;&lt;div&gt;(color = green / soundNumber = 4&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="740" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-17" value="&lt;div&gt;buildKey&lt;/div&gt;&lt;div&gt;(color = teal / soundNumber = 5&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-18" value="&lt;div&gt;buildKey&lt;/div&gt;&lt;div&gt;(color = blue / soundNumber = 6&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="800" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-19" value="&lt;div&gt;buildKey&lt;/div&gt;&lt;div&gt;(color = purple / soundNumber = 7&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="830" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMiKsup2tOHU1poNqA4-1" target="SxMiKsup2tOHU1poNqA4-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="384.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMiKsup2tOHU1poNqA4-13" target="SxMiKsup2tOHU1poNqA4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMiKsup2tOHU1poNqA4-1" target="SxMiKsup2tOHU1poNqA4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-21" value="Expanded &lt;b&gt;buildKey&lt;/b&gt;({Color color, int soundNumber})" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="650" width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-24" value="&lt;div&gt;&lt;b&gt;Expanded&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- child/TextButton(onPressed)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="380" y="690" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-26" value="&lt;div&gt;&lt;b&gt;onPressed&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- playSound(soundNumber)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="490" y="765" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMiKsup2tOHU1poNqA4-24" target="SxMiKsup2tOHU1poNqA4-26">
+          <mxGeometry x="360" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SxMiKsup2tOHU1poNqA4-23" target="SxMiKsup2tOHU1poNqA4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-23" value="&lt;div&gt;void playSound(int soundNumber)&lt;/div&gt;&lt;div&gt;final player = AudioCache()&lt;/div&gt;&lt;div&gt;player.play(&#39;note$soundNumber.wav)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMiKsup2tOHU1poNqA4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SxMiKsup2tOHU1poNqA4-26" target="SxMiKsup2tOHU1poNqA4-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="480" />
+              <mxPoint x="580" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
